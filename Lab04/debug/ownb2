@@ -1,0 +1,24 @@
+magnitudes[0]:-0.000030
+theFaceImage    max: 210.000000 ---      min: 2.000000
+theMean         max: 193.666667 ---      min: 40.666667
+theBasis        max: 0.000000 ----       min: -0.000000
+magnitudes[1]:496.724115
+theFaceImage    max: 210.000000 ---      min: 2.000000
+theMean         max: 193.666667 ---      min: 40.666667
+theBasis        max: 0.012028 ----       min: -0.012687
+magnitudes[2]:687.403217
+theFaceImage    max: 210.000000 ---      min: 2.000000
+theMean         max: 193.666667 ---      min: 40.666667
+theBasis        max: 0.014408 ----       min: -0.017309
+magnitudes[3]:183.731693
+theFaceImage    max: 210.000000 ---      min: 2.000000
+theMean         max: 193.666667 ---      min: 40.666667
+theBasis        max: 0.015431 ----       min: -0.017016
+magnitudes[4]:421.140495
+theFaceImage    max: 210.000000 ---      min: 2.000000
+theMean         max: 193.666667 ---      min: 40.666667
+theBasis        max: 0.019425 ----       min: -0.017783
+magnitudes[5]:-843.897889
+theFaceImage    max: 210.000000 ---      min: 2.000000
+theMean         max: 193.666667 ---      min: 40.666667
+theBasis        max: 0.021048 ----       min: -0.013389
